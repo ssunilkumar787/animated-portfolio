@@ -30,12 +30,11 @@ const Hero = () => {
             >
                 <TypeAnimation
                     sequence={[
-                        "Fullstack Dev",
+                        "Software Engineer",
                         1000,
-                        "Webdesigner",
+                        "Programmer",
                         1000,
-                        "Consultant",
-                        1000
+                    
                     ]}
                     speed={50}
                     repeat={Infinity}
