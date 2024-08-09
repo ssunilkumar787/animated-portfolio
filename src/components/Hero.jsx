@@ -49,7 +49,7 @@ const Hero = () => {
                 className="text-gray-200 md:text-7xl text-5xl tracking-tight mb-4"
                 >
                     HEY, I AM <br/>
-                    <span className="text-purple-500">JOHN DOE</span>
+                    <span className="text-purple-500">Sunil Kumar Sharma</span>
                 </motion.p>
 
                 <motion.p
